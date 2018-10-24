@@ -108,16 +108,5 @@ int main()
     printf("%lld %lld %d\n",a,b,ar[ar.size()-1]);
 
     }
-
-
-
-
-
-
-
-
-
-
-
 }
 
